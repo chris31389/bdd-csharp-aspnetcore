@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiSpecflowTest", "ApiSpecflowTest\ApiSpecflowTest.csproj", "{E9B44BA6-9E0B-48E2-96F5-085FB420D32B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BddTestProj", "BddTestProj\BddTestProj.csproj", "{2464E3C4-F297-45C8-82E3-F1F00807149C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9B44BA6-9E0B-48E2-96F5-085FB420D32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B44BA6-9E0B-48E2-96F5-085FB420D32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B44BA6-9E0B-48E2-96F5-085FB420D32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B44BA6-9E0B-48E2-96F5-085FB420D32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2464E3C4-F297-45C8-82E3-F1F00807149C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2464E3C4-F297-45C8-82E3-F1F00807149C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2464E3C4-F297-45C8-82E3-F1F00807149C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2464E3C4-F297-45C8-82E3-F1F00807149C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0F0FEE1-8193-4D5E-8C55-E978EF09AAE4}
+	EndGlobalSection
+EndGlobal
